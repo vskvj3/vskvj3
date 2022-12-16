@@ -1,9 +1,10 @@
 ## Hey, I’m Visakh 
-###   I’m currently a B Tech CSE student at [RIT Kottayam](http://rit.ac.in)
+### B Tech CSE student at [RIT Kottayam](http://rit.ac.in)
 
 - :earth_americas: I'm currently learning react and node
-- :computer: Talk to me about linux
-- 
+- :computer: Ask me about linux and movies :movie_camera:
+- :stars: I'm interested in many things and I like to tryout new things every day.
+- :raising_hand: I would love to collaborate in your projects.
 
 ## 📊 GitHub Stats:
 <div align="left" width=100%>
