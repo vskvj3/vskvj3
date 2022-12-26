@@ -1,5 +1,5 @@
 ### It's Visakh 
-<img src="blink.svg" width="400" height="400" alt="css-in-readme">
+<img src="blink.svg" width="400" height="100" alt="css-in-readme">
 
 #### B Tech CSE student at [RIT Kottayam](http://rit.ac.in)
 
@@ -11,7 +11,7 @@
 ### ⚙️ GitHub Stats:
 
 
-<p align="center" width=100%>
+<p align="center">
 <a href="https://github.com/vskvj3">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vskvj3&show_icons=true&theme=dark&bg_color=000000&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vskvj3&layout=compact&langs_count=8&theme=dark&bg_color=000000"/>
