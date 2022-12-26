@@ -14,8 +14,8 @@
 
             .box h2 {
                 display: flex;
-                font-family: "sans-serif"
-                color: #ffffff;
+                font-family: "Liberation Sans";
+                color: #b6c0c3;
                 align-items: left;
                 gap: 5px;
             }
@@ -30,7 +30,7 @@
                 content: "";
                 width: 5px;
                 height: 20px;
-                background: #ffffff;
+                background: #b6c0c3;
                 display: inline-block;
                 animation: cursor-blink 1.5s steps(2) infinite;
             }
