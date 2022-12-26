@@ -1,4 +1,6 @@
 ### It's Visakh 
+<img src="blink.svg" width="400" height="400" alt="css-in-readme">
+
 #### B Tech CSE student at [RIT Kottayam](http://rit.ac.in)
 
 - :earth_americas: I'm currently learning react and node
