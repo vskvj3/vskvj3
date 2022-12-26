@@ -14,7 +14,7 @@
 
             .box h2 {
                 display: flex;
-                font-family: "Droid Sans";
+                font-family: "Noto Sans";
                 color: #b6c0c3;
                 align-items: left;
                 gap: 5px;
