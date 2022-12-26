@@ -1,5 +1,4 @@
-### It's Visakh 
-<img src="blink.svg" width="400" height="100" alt="css-in-readme">
+ <img src="blink.svg" width="400" height="100" alt="css-in-readme">
 
 #### B Tech CSE student at [RIT Kottayam](http://rit.ac.in)
 
