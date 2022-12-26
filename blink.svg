@@ -14,7 +14,7 @@
 
             .box h2 {
                 display: flex;
-                font-family: "Liberation Mono"
+                font-family: "sans-serif"
                 color: #f3f6f4;
                 align-items: left;
                 gap: 5px;
