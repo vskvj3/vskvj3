@@ -1,11 +1,11 @@
  <img src="blink.svg" width="400" height="60" alt="css-in-readme">
 
-#### B Tech CSE student at [RIT Kottayam](http://rit.ac.in)
+#### Currently a student
 
 - :earth_americas: I'm currently learning react and node
 - :computer: Ask me about linux and movies :movie_camera:
 - :stars: I'm interested in many things.
-- :raising_hand: I would love to collaborate in your projects.
+- :raising_hand: I would love to collaborate.
 
 ### ⚙️ GitHub Stats:
 
