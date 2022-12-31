@@ -2,13 +2,11 @@
 
 #### Currently a student
 
-- :earth_americas: I'm currently learning react and node
+- :earth_americas: Learning react and node
 - :computer: Ask me about linux and movies :movie_camera:
 - :stars: I'm interested in many things.
-- :raising_hand: I would love to collaborate.
 
 ### ⚙️ GitHub Stats:
-
 
 <p align="center">
 <a href="https://github.com/vskvj3">
