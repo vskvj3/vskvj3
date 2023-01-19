@@ -1,6 +1,6 @@
  <img src="blink.svg" width="400" height="60" alt="css-in-readme">
 
-#### Currently a student
+### :boy: Currently a student
 
 - :earth_americas: Learning react and node
 - :computer: Ask me about linux and movies :movie_camera:
