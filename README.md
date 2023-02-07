@@ -4,6 +4,7 @@
 
 - :earth_americas: Learning react and node
 - :computer: Ask me about linux and movies :movie_camera:
+- :ghost: I'm currently working on something fun
 
 <!--- HOW TO REACH ME --->
 <h3>:busts_in_silhouette: How to reach me:</h3>
