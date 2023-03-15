@@ -1,4 +1,4 @@
-[![Typing SVG](https://terminal-readme-stats.onrender.com/svg?name=vskvj3&whoami=true&stats=true&stime=1600&delay=1000)](https://github.com/vskvj3/terminal-readme-stats)
+[![Typing SVG](https://terminal-readme-stats.onrender.com/svg?name=vskvj3&whoami=true&stats=true&stime=1600&delay=1600)](https://github.com/vskvj3/terminal-readme-stats)
 
  <!--- <img src="blink.svg" width="400" height="60" alt="css-in-readme"> --->
 
