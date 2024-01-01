@@ -6,9 +6,9 @@
 <div>
   <h4> About Me: </h4>
   <ul>
-    <li>Learning react and node</li>
+    <li>Currently a final year computer science student</li>
     <li>Ask me about linux and movies :movie_camera:</li>
-    <li>I'm currently working on something fun</li>
+    <li>I'm working on something fun</li>
   </ul>
 </div>
 
