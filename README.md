@@ -1,5 +1,5 @@
 <p >
-<img src="https://lonely-crab-cowboy-hat.cyclic.app/svg?name=vskvj3&whoami=true&stats=true&stime=1500&delay=1601&family=IBM+Plex+Mono/svg?name=vskvj3&whoami=true&stats=true&stime=1500&delay=1601&family=IBM+Plex+Mono&height=300"/>
+<img src="https://lonely-crab-cowboy-hat.cyclic.app/svg?name=vskvj3&whoami=true&stats=true&stime=1500&delay=1601&family=IBM+Plex+Mono&height=300"/>
 </p>
 
  <!--- <img src="blink.svg" width="400" height="60" alt="css-in-readme"> --->
