@@ -1,5 +1,5 @@
 <p >
-<img src="https://lonely-crab-cowboy-hat.cyclic.app/svg?username=vskvj3&stats=true&stime=1500&delay=1600&family=IBM+Plex+Mono&height=250&radius=5&custom_text=Nice+to+see+you+here"/>
+<a href="https://github.com/vskvj3/terminal-readme-stats"><img src="https://lonely-crab-cowboy-hat.cyclic.app/svg?username=vskvj3&stats=true&stime=1500&delay=1600&family=IBM+Plex+Mono&height=250&radius=5&custom_text=Nice+to+see+you+here"/></a>
 </p>
 
  <!--- <img src="blink.svg" width="400" height="60" alt="css-in-readme"> --->
