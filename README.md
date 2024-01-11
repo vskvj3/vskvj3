@@ -15,18 +15,18 @@
 <!--- LANGUAGES AND TOOLS --->
 <h4> Languages and Tools </h4>
 <div>
+ <img alt="Static Badge" src="https://img.shields.io/badge/linux-282a36?style=for-the-badge&logo=linux">
 <img alt="Static Badge" src="https://img.shields.io/badge/c-282a36?style=for-the-badge&logo=c">
 <img alt="Static Badge" src="https://img.shields.io/badge/flutter-282a36?style=for-the-badge&logo=flutter">
-<img alt="Static Badge" src="https://img.shields.io/badge/linux-282a36?style=for-the-badge&logo=linux">
 <img alt="Static Badge" src="https://img.shields.io/badge/bash-282a36?style=for-the-badge&logo=gnubash">
+<img alt="Static Badge" src="https://img.shields.io/badge/git-282a36?style=for-the-badge&logo=git">
 <img alt="Static Badge" src="https://img.shields.io/badge/python-282a36?style=for-the-badge&logo=python">
 <img alt="Static Badge" src="https://img.shields.io/badge/javascript-282a36?style=for-the-badge&logo=javascript">
 <img alt="Static Badge" src="https://img.shields.io/badge/node.js-282a36?style=for-the-badge&logo=nodedotjs">
 <img alt="Static Badge" src="https://img.shields.io/badge/express.js-282a36?style=for-the-badge&logo=express">
-<img alt="Static Badge" src="https://img.shields.io/badge/mongodb-282a36?style=for-the-badge&logo=mongodb">
-<img alt="Static Badge" src="https://img.shields.io/badge/git-282a36?style=for-the-badge&logo=git">
-<img alt="Static Badge" src="https://img.shields.io/badge/mysql-282a36?style=for-the-badge&logo=mysql">
 <img alt="Static Badge" src="https://img.shields.io/badge/react-282a36?style=for-the-badge&logo=react">
+<img alt="Static Badge" src="https://img.shields.io/badge/mongodb-282a36?style=for-the-badge&logo=mongodb">
+<img alt="Static Badge" src="https://img.shields.io/badge/mysql-282a36?style=for-the-badge&logo=mysql">
 </div>
 
 <!--- GITHUB STATICS --->
