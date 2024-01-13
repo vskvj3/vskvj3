@@ -46,5 +46,5 @@
 <!--- HOW TO REACH ME --->
 <h4>How to reach me:</h4>
 <a href="https://linkedin.com/in/visakhvj3">
-    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/visakhvj3&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
+    <img alt="LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/visakhvj3&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
 </a>
