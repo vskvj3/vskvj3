@@ -35,8 +35,8 @@
  <summary><h4>⚙️ GitHub Stats:<h4></summary>
 <p align="center">
 <a href="https://github.com/vskvj3">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vskvj3&show_icons=true&theme=dark&bg_color=000000&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vskvj3&layout=compact&langs_count=8&theme=dark&bg_color=000000"/>
+  <img height="240em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vskvj3&&hide=cmake,Jupyter%20Notebook&langs_count=7&line_height=35&theme=dracula"/>
+  <img height="240em"src="https://streak-stats.demolab.com/?user=vskvj3&theme=dracula"/>
 </a>
 </p>
 </details>
