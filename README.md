@@ -5,7 +5,7 @@
 <div>
   <h4> About Me: </h4>
   <ul>
-    <li>A final year computer science student</li>
+    <li>A recent Computer Science graduate</li>
     <li>Ask me about linux and movies :movie_camera:</li>
     <li>I'm working on something fun</li>
   </ul>
