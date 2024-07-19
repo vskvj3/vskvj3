@@ -28,6 +28,18 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/mysql-282a36?style=for-the-badge&logo=mysql">
 </div>
 
+<!--- LEETCODE STATICS --->
+<div>
+ <details>
+  <summary><h4>:computer: Leetcode Stats:</h4></summary>
+  <p align="center">
+   <a href="https://leetcode.com/u/visakhvijay/">
+    <img height="240em" src="https://leetcard.jacoblin.cool/visakhvijay?theme=dark&font=Crimson%20Pro"/>
+   </a>
+  </p>
+</details>
+ </div>
+ 
 <!--- GITHUB STATICS --->
 <div>
 <details>
