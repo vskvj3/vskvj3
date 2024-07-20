@@ -32,7 +32,7 @@
 <div>
  <details>
   <summary><h4>:computer: Leetcode Stats:</h4></summary>
-  <p align="center">
+  <p>
    <a href="https://leetcode.com/u/visakhvijay/">
     <img height="240em" src="https://leetcard.jacoblin.cool/visakhvijay?theme=dark&font=Crimson%20Pro"/>
    </a>
@@ -44,10 +44,9 @@
 <div>
 <details>
  <summary><h4>⚙️ GitHub Stats:<h4></summary>
-<p align="center">
+<p>
 <a href="https://github.com/vskvj3">
-  <img height="240em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vskvj3&&hide=cmake,Jupyter%20Notebook&langs_count=7&line_height=35&theme=dracula"/>
-  <img height="240em"src="https://streak-stats.demolab.com/?user=vskvj3&theme=dracula"/>
+  <img height="240em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vskvj3&&hide=cmake,Jupyter%20Notebook&langs_count=7&line_height=35&theme=dark"/>
 </a>
 </p>
 </details>
