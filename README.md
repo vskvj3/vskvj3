@@ -5,9 +5,9 @@
 <div>
   <h4> About Me: </h4>
   <ul>
-    <li>A recent Computer Science graduate</li>
-    <li>Ask me about linux and movies :movie_camera:</li>
-    <li>I'm working on something fun</li>
+    <li>I'm a software engineer with experience in big data, cloud computing, and data engineering technologies.</li>
+    <li>Ask me about Linux, programming, and movies 🎥.</li>
+    <li>I'm interested in anything hacky, data intensive and fun!</li>
   </ul>
 </div>
 
@@ -25,6 +25,14 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/node.js-282a36?style=for-the-badge&logo=nodedotjs">
 <img alt="Static Badge" src="https://img.shields.io/badge/express.js-282a36?style=for-the-badge&logo=express">
 <img alt="Static Badge" src="https://img.shields.io/badge/react-282a36?style=for-the-badge&logo=react">
+</div>
+
+<!--- LANGUAGES AND TOOLS --->
+<h4> Data Related Tools </h4>
+<div>
+<img alt="Static Badge" src="https://img.shields.io/badge/pyspark-282a36?style=for-the-badge&logo=apachespark">
+<img alt="Static Badge" src="https://img.shields.io/badge/hadoop-282a36?style=for-the-badge&logo=apachehadoop">
+<img alt="Static Badge" src="https://img.shields.io/badge/databricks-282a36?style=for-the-badge&logo=databricks">
 <img alt="Static Badge" src="https://img.shields.io/badge/mongodb-282a36?style=for-the-badge&logo=mongodb">
 <img alt="Static Badge" src="https://img.shields.io/badge/mysql-282a36?style=for-the-badge&logo=mysql">
 </div>
