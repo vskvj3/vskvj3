@@ -7,7 +7,7 @@
   <ul>
     <li>I'm a software engineer with experience in big data, cloud computing, and data engineering technologies.</li>
     <li>Ask me about Linux, programming, and movies 🎥.</li>
-    <li>I'm interested in anything hacky, data intensive and fun!</li>
+    <li>I'm interested in anything hacky and fun!</li>
   </ul>
 </div>
 
